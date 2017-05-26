@@ -9,6 +9,7 @@
 # parentheses. 
 #
 # Examples: 
+#
 # regexp exactly matches "astronomy"  
 # regexp exactly matches "near-infrared"  
 # regexp exactly matches "x-ray"  
