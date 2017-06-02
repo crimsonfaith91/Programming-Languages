@@ -19,7 +19,6 @@
 # return one such string (your choice!). Otherwise, if the finite state
 # machine is empty, your procedure must return None (the value None, not
 # the string "None"). 
-#
 # For example, this non-deterministic machine ...
 edges = { (1, 'a') : [2, 3],
           (2, 'a') : [2],
