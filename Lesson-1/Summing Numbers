@@ -8,7 +8,6 @@
 #
 # Example Input: "hello 2 all of you 44"
 # Example Output: 46
-#
 # Hint: int("44") == 44
 
 import re
